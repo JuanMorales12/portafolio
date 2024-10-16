@@ -6,9 +6,5 @@ Proyectos:
   # E-commerce: https://tienda-gz.netlify.app/
   # Buscador de gifs interactivo: https://juanmorales12.github.io/React-gif-expert-app/
   # Portafolio Page: https://juanmorales12.github.io/portafolioPage/#/
+  # Superheroes page https://juanmorales12.github.io/heroes-spa/
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
